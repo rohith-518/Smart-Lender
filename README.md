@@ -7,6 +7,7 @@ Smart Lender is an intelligent Machine Learning-based web application developed 
 The application integrates multiple classification algorithms and selects the best-performing model for real-time prediction through a Flask-based web interface.
 
 ---
+<img width="909" height="442" alt="architecture" src="https://github.com/user-attachments/assets/3d0bbdc5-505b-4e41-b140-5d8251b7fc36" />
 
 
 ## 🎯 Problem Statement
